@@ -1,0 +1,11 @@
+# Large genomic data files
+*.gtf
+*.fa
+*.fasta
+!homework-01/dna.fasta
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
